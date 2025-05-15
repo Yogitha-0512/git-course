@@ -1,0 +1,2 @@
+can assign different roles among the team
+has the authority kickout any malicious team member
